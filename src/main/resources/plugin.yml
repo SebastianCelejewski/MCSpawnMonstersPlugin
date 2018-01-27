@@ -1,0 +1,8 @@
+name: SpawnMonstersPlugin
+main: pl.sebcel.minecraft.spawnmonsters.SpawnMonstersPlugin
+version: 1.0.0
+author: Sebastian Celejewski
+commands:
+  spawnmonsters:
+    description: Spawns a horde of monsters near the player
+    usage: /<command> [Player]
